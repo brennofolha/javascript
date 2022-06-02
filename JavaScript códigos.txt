@@ -1,9 +1,23 @@
-Anotações e códigos do curso de JavaScript:
-
 Bibliografia: 
 
-JavaScript: O Guia Definitivo
+1º JavaScript: O Guia Definitivo - Video = Dando os primeiros passos - Curso JavaScript #03 - Tempo do video = 11:18 / 32:51 
+
+2º JavaScript - Guia do Programador - Video = Dando os primeiros passos - Curso JavaScript #03 - Tempo do video = 11:30 / 32:51
+
+Guias de referência:
+
+Link 1: https://developer.mozilla.org/pt-BR/docs/Web/JavaScript/Guide
+
+Link 2: https://www.ecma-international.org/publications-and-standards/standards/ecma-262/
 
 
 
+Códigos da Aula: Criando o seu primeiro script - Curso JavaScript #04;
 
+  <script>
+        window.alert('Minha primeira mensagem!') <!-- Cria um alerta na tela com a mensagem que você escrever entre ('')-->
+        window.confirm('Está gostando de JS?')<!-- Cria uma confirmação na tela com a mensagem que você escrever entre ('') -->
+        window.prompt ('Qual é o seu nome?') <!-- Cria uma mensagem que será exibida, normalmente em forma de pergunta, ao usuário. -->
+  </script>
+
+ 
