@@ -21,3 +21,16 @@ footer{
     text-align: center;
     font-style: italic;
 }
+div#tab {
+    text-align: center;
+    
+}
+select{
+    overflow: hidden;
+    text-align: center;
+    background-color: #282A35;
+    color: white;
+    padding: 10px ;
+    border-radius: 10px;
+    font-size: large;
+}
